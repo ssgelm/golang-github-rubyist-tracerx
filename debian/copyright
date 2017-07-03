@@ -1,0 +1,15 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: tracerx
+Source: https://github.com/rubyist/tracerx
+
+Files: *
+Copyright: 2014 Scott Barron
+License: TODO
+
+Files: debian/*
+Copyright: 2017 Stephen Gelman <ssgelm@gmail.com>
+License: TODO
+Comment: Debian packaging is licensed under the same terms as upstream
+
+License: TODO
+TODO
