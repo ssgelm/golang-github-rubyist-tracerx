@@ -1,4 +1,4 @@
-golang-github-rubyist-tracerx (0.0~git20150602.0.d7bcc0b-1) UNRELEASED; urgency=medium
+golang-github-rubyist-tracerx (0.0~git20150602.0.d7bcc0b-1) unstable; urgency=medium
 
   * Initial release (Closes: #869518)
 
