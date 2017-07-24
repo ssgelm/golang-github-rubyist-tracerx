@@ -8,8 +8,8 @@ Build-Depends: debhelper (>= 10),
                golang-any
 Standards-Version: 3.9.8
 Homepage: https://github.com/rubyist/tracerx
-Vcs-Browser: https://anonscm.debian.org/cgit/pkg-go/packages/golang-github-rubyist-tracerx.git
-Vcs-Git: https://anonscm.debian.org/git/pkg-go/packages/golang-github-rubyist-tracerx.git
+Vcs-Browser: https://github.com/ssgelm/golang-github-rubyist-tracerx
+Vcs-Git: https://github.com/ssgelm/golang-github-rubyist-tracerx
 XS-Go-Import-Path: github.com/rubyist/tracerx
 
 Package: golang-github-rubyist-tracerx-dev

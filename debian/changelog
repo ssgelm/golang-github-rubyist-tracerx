@@ -1,5 +1,5 @@
 golang-github-rubyist-tracerx (0.0~git20150602.0.d7bcc0b-1) UNRELEASED; urgency=medium
 
-  * Initial release (Closes: TODO)
+  * Initial release (Closes: #869518)
 
  -- Stephen Gelman <ssgelm@gmail.com>  Mon, 03 Jul 2017 04:27:18 +0000
